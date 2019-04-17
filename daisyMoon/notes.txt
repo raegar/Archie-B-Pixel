@@ -1,0 +1,24 @@
+NOTES
+
+
+Need beginner levels with more explicit instructions
+
+Level 1:
+
++ Units
+
+Start colour: Red
+Units: Blue
+Gate 1: Magenta
+
+
+Level 2:
+- Units
+
+Start colour: Magenta
+Units: Cyan, Magenta, Yellow
+Gate 1: Red
+
+
+
+Add text popups in game "Press Z to go to the next level!"
