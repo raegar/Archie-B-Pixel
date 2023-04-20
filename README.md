@@ -2,8 +2,9 @@
 
 A simple colour based puzzle game written in LUA utilising [Oxeye Game Studio](http://www.oxeyegames.com/category/daisymoon/)'s DaisyMoon game engine.
 
-# DaisyMoon
+## DaisyMoon
 [DaisyMoon License](http://www.oxeyegames.com/wiki/index.php/DaisyMoon_License)
+
 You may
 
 Redistribute DaisyMoon executables for free
