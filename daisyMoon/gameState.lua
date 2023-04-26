@@ -646,19 +646,19 @@ function GameState:keyPressed(key)
 			end
 	end
 	
-	if(key) == 37 then
+	if(key) == 37 or (key) == 65 then -- Left or A
 		self.leftAction()
 	end
 	
-	if(key) == 38 then
+	if(key) == 38 or (key) == 87 then -- Up or W
 		self.upAction()
 	end
 	
-	if(key) == 39 then
+	if(key) == 39 or (key) == 68 then -- Right or D
 		self.rightAction()
 	end
 	
-	if(key) == 40 then
+	if(key) == 40 or (key) == 83 then -- Down or S
 		self.downAction()
 	end
 	
