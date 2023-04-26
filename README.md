@@ -2,6 +2,13 @@
 
 A simple colour based puzzle game written in LUA utilising [Oxeye Game Studio](http://www.oxeyegames.com/category/daisymoon/)'s DaisyMoon game engine.
 
+Before playing, run oalinst.exe to install the Open AL audio drivers.
+
+Lauch RGB.exe to play
+Have fun!
+
+Archie B. Pixel is developed and maintained by [Jamie Myland](https://twitter.com/raegar) 2011-2023. 
+
 ## DaisyMoon
 [DaisyMoon License](http://www.oxeyegames.com/wiki/index.php/DaisyMoon_License)
 
