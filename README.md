@@ -10,6 +10,8 @@ You may
 Redistribute DaisyMoon executables for free
 Redistribute the Texture Builder for free
 Create commercial games with DaisyMoon, and include the executables with your Lua scripts and game assets (graphics, sounds etc)
+
+
 You may not
 
 Use or redistribute our or other people's game assets (artwork, sound effects, Lua scripts) without permission
